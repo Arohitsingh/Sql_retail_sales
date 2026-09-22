@@ -1,6 +1,6 @@
 --SQL Retail Sales Analysis Project
 --Create Database
-Create Database Retail_Sales_Project;
+Create Database Retail_Sales_Project;.
 Use Retail_Sales_Project;
 
 -- IMPORT retail_sales FLAT FILE
